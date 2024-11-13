@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b402e178b05c0a4a9a59c08f3235839, type: 3}
+  m_Name: pistolInfo
+  m_EditorClassIdentifier: 
+  wapenNaam: pistol
+  schade: 10
+  vuurSnelheid: 3
+  bulletPrefab: {fileID: 209075732959607034, guid: 53104b6f35e20524f8c1cba144fe5a9a, type: 3}
+  bulletspeed: 100
+  WapenSprite: {fileID: 21300000, guid: 94ca83d19e9cd6f46925e1d7663b0b42, type: 3}
